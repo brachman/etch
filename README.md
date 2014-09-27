@@ -1,7 +1,7 @@
 etch
 ====
 
-etch-a-scetch exercise
+etch-a-sketch exercise
 
 Follow the instructions atop the Google Homepage project to set up a Github repository for this project
 (of course you'll need to change the title).
